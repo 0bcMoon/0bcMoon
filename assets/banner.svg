@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Hicham Benoukaiss — 0bcMoon</title>
+  <desc id="desc">A midnight blue banner with a crescent moon, orbital lines, and the words Systems, backend, infrastructure.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c30"/>
+      <stop offset="1" stop-color="#080f1c"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="moon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b2fff1"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="22" fill="url(#background)" stroke="#26354a"/>
+  <circle cx="1000" cy="170" r="205" fill="url(#halo)"/>
+  <g fill="none" stroke="#5eead4" stroke-opacity="0.12">
+    <circle cx="1000" cy="170" r="102"/>
+    <circle cx="1000" cy="170" r="135"/>
+    <path d="M827 252C895 308 1081 287 1152 86"/>
+  </g>
+  <g fill="#a4c1d3">
+    <circle cx="855" cy="75" r="2"/>
+    <circle cx="1122" cy="71" r="2"/>
+    <circle cx="1112" cy="277" r="1.8"/>
+    <circle cx="864" cy="252" r="1.5"/>
+    <circle cx="940" cy="52" r="1.4"/>
+  </g>
+  <path d="M1036 104A74 74 0 1 0 1068 213A66 66 0 0 1 1036 104Z" fill="url(#moon)"/>
+  <circle cx="1095" cy="202" r="4" fill="#5eead4"/>
+  <path d="M1100 111h10m-5-5v10" stroke="#b2fff1" stroke-width="2" stroke-linecap="round"/>
+  <rect x="62" y="58" width="29" height="3" rx="1.5" fill="#5eead4"/>
+  <text x="105" y="66" fill="#5eead4" font-family="DejaVu Sans Mono, monospace" font-size="18" letter-spacing="3">0bcMoon</text>
+  <text x="60" y="148" fill="#f0f5fc" font-family="DejaVu Sans, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Hicham Benoukaiss</text>
+  <text x="63" y="194" fill="#bac8d9" font-family="DejaVu Sans, Arial, sans-serif" font-size="23">Building from the system up.</text>
+  <path d="M63 231H740" stroke="#26394e"/>
+  <text x="63" y="271" fill="#839bb4" font-family="DejaVu Sans Mono, monospace" font-size="16" letter-spacing="2">SYSTEMS / BACKEND / INFRASTRUCTURE</text>
+</svg>
