@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Hicham Benoukaiss — 0bcMoon. Systems, backend, and infrastructure." width="100%" />
+  <img src="./assets/banner.svg" alt="Hicham Benoukaiss — 0bcMoon. Web development, systems, and infrastructure." width="100%" />
 </p>
 
 <p align="center">
@@ -8,26 +8,37 @@
   <a href="https://www.linkedin.com/in/hicham-benoukaiss-049a96255/">LinkedIn</a>
 </p>
 
-### Building from the system up.
+### From web interfaces to Unix internals.
 
-I'm **Hicham Benoukaiss**, also known as **0bcMoon**. I work on Unix tools, backend services, and infrastructure, with C and C++ at the center of many of my projects.
+I'm **Hicham Benoukaiss**, also known as **0bcMoon**. I build web applications and explore systems programming—from React interfaces and backend APIs to Unix tools in C and C++.
 
-I like learning how things work by implementing them: parsing a shell command, serving an HTTP request, coordinating threads, or deploying an application to Kubernetes.
+I enjoy working across the stack: creating interfaces, handling authentication and real-time communication, understanding processes and networking, and deploying applications.
 
 ## Selected projects
+
+### Web development
+
+| Project | What I built and explored | Stack |
+| :--- | :--- | :--- |
+| **[ft_transcendence](https://github.com/0bcMoon/ft_transcendence)** | Team-built multiplayer Pong platform; my focus was authentication, OAuth2, 2FA, and real-time chat | React · TypeScript · Fastify · SQLite |
+| **[todo-app](https://github.com/0bcMoon/todo-app)** | Project and task tracker with a React frontend, Go API, and database-backed sessions | React · Go · PostgreSQL |
+| **[portfolio](https://github.com/0bcMoon/portfolio)** | Personal portfolio presenting my projects, experience, and skills | Astro · TypeScript · Tailwind CSS |
+
+### Systems & infrastructure
 
 | Project | What I built and explored | Stack |
 | :--- | :--- | :--- |
 | **[Webserver](https://github.com/0bcMoon/Webserver)** | HTTP server with static files, CGI, virtual hosts, and configuration parsing | C++ · HTTP |
 | **[minishell](https://github.com/0bcMoon/minishell)** | Interactive Unix shell with built-ins, pipelines, redirections, and variable expansion | C · Unix |
 | **[inception-of-things](https://github.com/0bcMoon/inception-of-things)** | Kubernetes lab with K3s VMs, ingress routing, Argo CD, and a GitLab bonus | Kubernetes · K3d · GitOps |
-| **[inception](https://github.com/0bcMoon/inception)** | Containerized WordPress infrastructure with Nginx, MariaDB, Redis, and supporting services | Docker · Shell · Linux |
-| **[fract-ol](https://github.com/0bcMoon/fract-ol)** | Interactive Mandelbrot and Julia rendering, with a Burning Ship bonus | C · MLX42 · Graphics |
-| **[Philosophers](https://github.com/0bcMoon/Philosophers)** | Dining philosophers simulation with threads, mutexes, and timing constraints | C · POSIX threads |
+
+More systems work: [Docker infrastructure](https://github.com/0bcMoon/inception) · [Fractal graphics](https://github.com/0bcMoon/fract-ol) · [Thread synchronization](https://github.com/0bcMoon/Philosophers)
 
 ## Tools I work with
 
 **Languages** &nbsp; C · C++ · Rust · Go · TypeScript · Shell
+
+**Web** &nbsp; React · Astro · Fastify · Tailwind CSS · PostgreSQL · SQLite
 
 **Systems & infrastructure** &nbsp; Linux · Docker · Kubernetes · K3s · K3d · Argo CD
 
@@ -42,6 +53,6 @@ I like learning how things work by implementing them: parsing a shell command, s
 ---
 
 <p align="center">
-  Interested in systems, backend development, or infrastructure?<br />
+  Interested in web development, systems programming, or infrastructure?<br />
   <a href="https://www.linkedin.com/in/hicham-benoukaiss-049a96255/">Let's connect on LinkedIn.</a>
 </p>
