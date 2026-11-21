@@ -23,6 +23,7 @@ I enjoy working across the stack: creating interfaces, handling authentication a
 | **[ft_transcendence](https://github.com/0bcMoon/ft_transcendence)** | Team-built multiplayer Pong platform; my focus was authentication, OAuth2, 2FA, and real-time chat | React · TypeScript · Fastify · SQLite |
 | **[todo-app](https://github.com/0bcMoon/todo-app)** | Project and task tracker with a React frontend, Go API, and database-backed sessions | React · Go · PostgreSQL |
 | **[portfolio](https://github.com/0bcMoon/portfolio)** | Personal portfolio presenting my projects, experience, and skills | Astro · TypeScript · Tailwind CSS |
+| **[inception](https://github.com/0bcMoon/inception)** | Containerized WordPress deployment with Nginx, MariaDB, Redis, and supporting services | Docker · Nginx · WordPress |
 
 ### Systems & infrastructure
 
@@ -32,7 +33,7 @@ I enjoy working across the stack: creating interfaces, handling authentication a
 | **[minishell](https://github.com/0bcMoon/minishell)** | Interactive Unix shell with built-ins, pipelines, redirections, and variable expansion | C · Unix |
 | **[inception-of-things](https://github.com/0bcMoon/inception-of-things)** | Kubernetes lab with K3s VMs, ingress routing, Argo CD, and a GitLab bonus | Kubernetes · K3d · GitOps |
 
-More systems work: [Docker infrastructure](https://github.com/0bcMoon/inception) · [Fractal graphics](https://github.com/0bcMoon/fract-ol) · [Thread synchronization](https://github.com/0bcMoon/Philosophers)
+More systems work: [Fractal graphics](https://github.com/0bcMoon/fract-ol) · [Thread synchronization](https://github.com/0bcMoon/Philosophers)
 
 ## Tools I work with
 
