@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="https://github.com/0bcMoon/portfolio">Portfolio source</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/hicham-benoukaiss-049a96255/">LinkedIn</a>
+  <a href="hichambenoukaiss.me">Portfolio</a>
+  <a href="https://www.linkedin.com/in/hibenouk/">LinkedIn</a>
 </p>
 
 ### From web interfaces to Unix internals.
