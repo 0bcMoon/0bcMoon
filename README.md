@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="hichambenoukaiss.me">Portfolio</a>
+  <a href="https://hichambenoukaiss.me">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/hibenouk/">LinkedIn</a>
 </p>
 
