@@ -35,6 +35,11 @@ I enjoy working across the stack: creating interfaces, handling authentication a
 
 More systems work: [Fractal graphics](https://github.com/0bcMoon/fract-ol) · [Thread synchronization](https://github.com/0bcMoon/Philosophers)
 
+## Projects in progress
+
+- **[Expert System](https://github.com/0bcMoon/expert-system)** — In progress · Rust.
+- **Red Tetris** — In progress.
+
 ## Tools I work with
 
 **Languages** &nbsp; C · C++ · Rust · Go · TypeScript · Shell
@@ -47,7 +52,6 @@ More systems work: [Fractal graphics](https://github.com/0bcMoon/fract-ol) · [T
 
 ## On my workbench
 
-- **Rust:** building an [expert system](https://github.com/0bcMoon/expert-system), currently focused on lexing and source positions.
 - **Problem solving:** practicing C++ through [competitive programming](https://github.com/0bcMoon/Competitive-programming).
 - **Web development:** maintaining my [portfolio](https://github.com/0bcMoon/portfolio).
 
