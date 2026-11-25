@@ -16,24 +16,17 @@ I enjoy working across the stack: creating interfaces, handling authentication a
 
 ## Selected projects
 
-### Web development
+| Project | What I built |
+| :--- | :--- |
+| **[ft_transcendence](https://github.com/0bcMoon/ft_transcendence)** | Team-built multiplayer Pong platform where I worked on authentication, OAuth2, 2FA, and real-time chat. |
+| **[Webserver](https://github.com/0bcMoon/Webserver)** | HTTP/1.1 server in C++ with non-blocking I/O, CGI, and virtual hosts. |
+| **[todo-app](https://github.com/0bcMoon/todo-app)** | Project and task tracker with a React frontend, Go API, PostgreSQL, and database-backed sessions. |
 
-| Project | What I built and explored | Stack |
-| :--- | :--- | :--- |
-| **[ft_transcendence](https://github.com/0bcMoon/ft_transcendence)** | Team-built multiplayer Pong platform; my focus was authentication, OAuth2, 2FA, and real-time chat | React · TypeScript · Fastify · SQLite |
-| **[todo-app](https://github.com/0bcMoon/todo-app)** | Project and task tracker with a React frontend, Go API, and database-backed sessions | React · Go · PostgreSQL |
-| **[portfolio](https://github.com/0bcMoon/portfolio)** | Personal portfolio presenting my projects, experience, and skills | Astro · TypeScript · Tailwind CSS |
-| **[inception](https://github.com/0bcMoon/inception)** | Containerized WordPress deployment with Nginx, MariaDB, Redis, and supporting services | Docker · Nginx · WordPress |
+## More projects
 
-### Systems & infrastructure
-
-| Project | What I built and explored | Stack |
-| :--- | :--- | :--- |
-| **[Webserver](https://github.com/0bcMoon/Webserver)** | HTTP server with static files, CGI, virtual hosts, and configuration parsing | C++ · HTTP |
-| **[minishell](https://github.com/0bcMoon/minishell)** | Interactive Unix shell with built-ins, pipelines, redirections, and variable expansion | C · Unix |
-| **[inception-of-things](https://github.com/0bcMoon/inception-of-things)** | Kubernetes lab with K3s VMs, ingress routing, Argo CD, and a GitLab bonus | Kubernetes · K3d · GitOps |
-
-More systems work: [Fractal graphics](https://github.com/0bcMoon/fract-ol) · [Thread synchronization](https://github.com/0bcMoon/Philosophers)
+- **Web & deployment:** [Portfolio](https://github.com/0bcMoon/portfolio) · [Inception](https://github.com/0bcMoon/inception).
+- **Systems & infrastructure:** [minishell](https://github.com/0bcMoon/minishell) · [Inception of Things](https://github.com/0bcMoon/inception-of-things) · [fract-ol](https://github.com/0bcMoon/fract-ol) · [Philosophers](https://github.com/0bcMoon/Philosophers).
+- **Problem solving:** [Competitive programming](https://github.com/0bcMoon/Competitive-programming).
 
 ## Projects in progress
 
@@ -50,14 +43,9 @@ More systems work: [Fractal graphics](https://github.com/0bcMoon/fract-ol) · [T
 
 **Development** &nbsp; Git · Make · Neovim
 
-## On my workbench
-
-- **Problem solving:** practicing C++ through [competitive programming](https://github.com/0bcMoon/Competitive-programming).
-- **Web development:** maintaining my [portfolio](https://github.com/0bcMoon/portfolio).
-
 ---
 
 <p align="center">
   Interested in web development, systems programming, or infrastructure?<br />
-  <a href="https://www.linkedin.com/in/hicham-benoukaiss-049a96255/">Let's connect on LinkedIn.</a>
+  <a href="https://www.linkedin.com/in/hibenouk/">Let's connect on LinkedIn.</a>
 </p>
